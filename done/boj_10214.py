@@ -4,9 +4,10 @@
 """
 
 case = int(input())
-score_y, score_k = 0, 0
 
 for _ in range(case):
+    score_y, score_k = 0, 0
+    
     for _ in range(9):
         y, k = map(int, input().split())
         score_y += y
