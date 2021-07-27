@@ -1,6 +1,6 @@
 """
   Written by Younsung Lee on Jul. 27. 2021.
-  BOJ 5217 "Sum of Pairs
+  BOJ 5217 "Sum of Pairs"
 """
 
 case = int(input())
