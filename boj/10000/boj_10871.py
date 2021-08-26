@@ -1,0 +1,11 @@
+"""
+  Written by Younsung Lee on Aug. 26. 2021.
+  BOJ 10871 "X보다 작은 수"
+"""
+
+n, x = map(int, input().split())
+a = list(map(int, input().split()))
+
+for i in range(n):
+	if a[i] < x:
+		print(a[i], end=' ')
