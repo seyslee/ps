@@ -1,6 +1,6 @@
 """
   Written by Younsung Lee on Sep. 3. 2021.
-  BOJ 2523 "점수계산"
+  BOJ 2506 "점수계산"
 """
 
 n = int(input())
