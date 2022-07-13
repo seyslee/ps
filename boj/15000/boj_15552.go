@@ -16,7 +16,7 @@ func main() {
 	var num1 int
 	var num2 int
 
-	for idx := 0; idx < testCaseLength; idx++ {
+	for idx := 0; index < testCaseLength; index++ {
 		fmt.Fscanln(reader, &num1, &num2)
 		fmt.Fprintln(writer, num1+num2)
 	}
